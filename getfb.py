@@ -3,7 +3,7 @@
 import json , sys , hashlib , os , time , marshal, getpass
 ###################################################################
 '''
-     Facebook Information 
+     Facebook Information Gather
 '''
 ###################################################################
 #                             COLOR
